@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Moraes/Desktop/Repositórios/Finder/jexcelapi/jxl.jar"/>
+	<classpathentry kind="lib" path="jexcelapi/jxl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
